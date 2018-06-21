@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;1&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;2&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;3&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;4&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;5&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;6&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;7&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;8&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;9&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will enter and click and select &quot;10&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2018-06-21T13:25:08Z" name="runnerPack.TestRunner" finished-at="2018-06-21T13:25:51Z" duration-ms="42927">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2018-06-21T13:25:08Z" name="Command line test" finished-at="2018-06-21T13:25:51Z" duration-ms="42927">
+      <class name="runnerPack.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:08Z" name="setUpClass" finished-at="2018-06-21T13:25:09Z" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:09Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:14Z" duration-ms="5392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;1&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:14Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:18Z" duration-ms="4070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;2&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:18Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:22Z" duration-ms="4119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;3&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:22Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:26Z" duration-ms="4077" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;4&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:26Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:30Z" duration-ms="4083" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;5&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:30Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:35Z" duration-ms="4141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;6&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:35Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:39Z" duration-ms="4322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;7&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:39Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:43Z" duration-ms="4049" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;8&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:43Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:47Z" duration-ms="4280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;9&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:47Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2018-06-21T13:25:51Z" duration-ms="4124" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User will be able to fill up form using valid information"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Register form fill up"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">User is on Xpath web page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will enter and click and select &quot;10&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will click on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">User will fill up successfully (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runnerPack.TestRunner@5119fb47]" started-at="2018-06-21T13:25:51Z" name="tearDownClass" finished-at="2018-06-21T13:25:51Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runnerPack.TestRunner -->
+    </test> <!-- Command line test -->
+  </suite> <!-- runnerPack.TestRunner -->
+</testng-results>
